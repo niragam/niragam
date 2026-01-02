@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Nir Agam</h1>
 <h3 align="center">Software Developer · Ramat Gan, Israel</h3>
 
-<p align="center">
-Focused on systems programming, backend development, and applied AI.
-</p>
 
 ---
 
