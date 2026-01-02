@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nir Agam</h1>
 <h3 align="center">A passionate Software developer from Ramat Gan, Israel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niragam&label=Profile%20views&color=0e75b6&style=flat" alt="niragam" /> </p>
+
 
 - 🔭 I’m currently working on **Personal AI DJ - Playlist maker**
 
