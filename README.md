@@ -44,6 +44,8 @@
 #### Data & Machine Learning
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="36" />
 </p>
