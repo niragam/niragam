@@ -5,7 +5,7 @@
 ---
 
 ### 🚧 Current Work
-- **Personal AI DJ** — AI-powered playlist generation based on natural language intent - POC - https://swift-match.vercel.app/
+- **Personal AI DJ** — AI and embeddings powered playlist generation based on natural language intent - POC - https://swift-match.vercel.app/
 
 ### 📫 Contact
 - **Email:** niragam@gmail.com
